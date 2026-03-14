@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Reporte: Paradigmas de la Programación Práctica 1:
 ### Actividad: Cola de impresión en lenguaje C
 ### Alumno: Guzmaán Ramírez Carlos Alberto
@@ -257,3 +258,6 @@ El desarrollo de este proyecto permitió aplicar conceptos fundamentales de estr
 Además, se reforzaron conocimientos sobre manejo de memoria dinámica, uso de punteros, alcance de variables y organización del código en funciones.
 
 La simulación desarrollada representa de forma sencilla el funcionamiento de un sistema de cola de impresión, demostrando cómo las estructuras de datos pueden aplicarse a problemas del mundo real.
+=======
+# Practica 1
+>>>>>>> 3516e25de9d904a3048763173fbdd7b0421366f4
