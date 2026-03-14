@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Reporte: Paradigmas de la Programación Práctica 1:
 ### Actividad: Cola de impresión en lenguaje C
 ### Alumno: Guzmaán Ramírez Carlos Alberto
