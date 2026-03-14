@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 =======
 >>>>>>> 6f4d9fe1afcc52a752d992a8301dd1ce77a06d4e
 # Reporte: Paradigmas de la Programación Práctica 1:
