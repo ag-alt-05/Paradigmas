@@ -214,20 +214,20 @@ A continuacion la salida de los programas
 
 ### Ejercicio 1: Lista estatica
 #### Menu
-![menu](./cap1.png) 
+![menu](cap1.jpg) 
 
 #### Agregar:
-![opc1](./cap2.png)
+![opc1](cap2.jpg)
 
 #### Peak:
-![opc2](./cap3.png)
+![opc2](cap3.jpg)
 
 #### Dequeue:
-![opc3](./cap4.png) 
+![opc3](cap4.jpg) 
 
 Al haber imprimido la anterior no se muestra en la lista
 #### Listar:
-![opc4](./cap5.png) 
+![opc4](cap5.jpg) 
 
 ##### 
 
@@ -235,19 +235,19 @@ Al haber imprimido la anterior no se muestra en la lista
 ### Ejercicio 3: Lista dinamica
 #### Menu:
 
-![menu](./cap5.png)
+![menu](cap5.jpg)
 
 #### Agregar:
-![opc1](./cap7.png)
+![opc1](cap7.jpg)
 
 #### Peak:
-![opc1](./cap8.png)
+![opc1](cap8.jpg)
 
 #### Dequeue:
-![opc1](./cap9.png)
+![opc1](cap9.jpg)
 
 #### Listar:
-![alt text](cap10.png)
+![alt text](cap10.jpg)
 
 
 ## Conclusión
