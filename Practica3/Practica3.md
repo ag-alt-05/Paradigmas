@@ -13,7 +13,7 @@ Para instalar Haskell en Windows se utilizó GHCup. Desde el Powershellse ejecut
 ```powershell
 Set-ExecutionPolicy Bypass -Scope Process -Force;[System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; try { & ([ScriptBlock]::Create((Invoke-WebRequest https://www.haskell.org/ghcup/sh/bootstrap-haskell.ps1 -UseBasicParsing))) -Interactive -DisableCurl } catch { Write-Error $_ }
 ```
-[Intalación](instalacion.jpg)
+![Intalación](instalacion.jpg)
 
 Posterior a eso tuve que seleccionar el directorio al que iria la instalacion y aceptar los paquetes que serian instalados:
 
@@ -24,7 +24,7 @@ Posterior a eso tuve que seleccionar el directorio al que iria la instalacion y 
 - **HLS**: Servidor de lenguaje para asistencia en el editor.
 - **MSYS2**: Herramientas necesarias en Windows para compilar dependencias nativas.!
 
-[Aceptación](aceptacion.jpg)
+![Aceptación](aceptacion.jpg)
 
 
 ### 1.2 Verificacion de instalacion
@@ -34,20 +34,20 @@ lineas de comandos:
 - **GHC**: ghc --version
 - **Cabal**: cabal --version
 - **Stack**: stack --version
-[Verificación](verificacion.jpg)
+![Verificación](verificacion.jpg)
 
 ## 2. Crear archivo Haskell
 
 ### 2.1 Probar GHCI
 
 En esta parte solo imprimi un par de mensajes y ya, al igual que una suma y el reverse
-[Pruebación](pruebacion.jpg)
+![Pruebación](pruebacion.jpg)
 
 
 ### 2.2 Crear archivo
 
 Se creo un archivo Haskell con el nombre "pruebaHaskell.hs"
-[Copilación](copilacion.jpg)
+![Copilación](copilacion.jpg)
 
 - Se añadio el código: 
     **module Main where**
