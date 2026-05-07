@@ -91,4 +91,4 @@ loop tareas = do
             else loop (tareas ++ [linea])
 ```
 - **Ejecución:**
-[Ejecución](ejecucion.jpg)
+![Ejecución](ejecuion.jpg)
